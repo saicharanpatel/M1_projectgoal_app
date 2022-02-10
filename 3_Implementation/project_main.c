@@ -109,7 +109,7 @@ int main()
             printf(" Something is wrong!! ");  
             break;                        
     }  
-    printf (" \n \n ********************************************** \n ");  
+    printf (" \n \n -------------------------------------- \n ");  
     } while (op != 7);  
   
     return 0;        
