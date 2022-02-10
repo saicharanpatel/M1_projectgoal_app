@@ -1,3 +1,6 @@
+// C Calculator which makes some basic arthematic like addition,subtraction,multiplication,Division
+ // and also square of a number,square root and also cube of a given number.  
+                    
 #include <stdio.h>  
 #include <math.h>  
 #include <stdlib.h>  
@@ -22,7 +25,7 @@ int main()
     {  
         case 1:  
             // Add two numbers  
-            printf (" You chose: Addition");  
+            printf (" You have choosen: Addition");  
             printf ("\n Enter First Number: ");  
             scanf (" %d", &n1);  
             printf (" Enter Second Number: ");  
@@ -33,7 +36,7 @@ int main()
               
         case 2:  
             // Subtract two numbers  
-            printf (" You chose: Subtraction");  
+            printf (" You have choosen: Subtraction");  
             printf ("\n Enter First Number: ");  
             scanf (" %d", &n1);  
             printf (" Enter Second Number: ");  
@@ -44,7 +47,7 @@ int main()
               
         case 3:  
             // Multiplication of the numbers  
-            printf (" You chose: Multiplication");  
+            printf (" You have choosen: Multiplication");  
             printf ("\n Enter First Number: ");  
             scanf (" %d", &n1);  
             printf (" Enter Second Number: ");  
@@ -55,7 +58,7 @@ int main()
               
         case 4:  
             // Division of the numbers  
-            printf (" You chose: Division");  
+            printf (" You have choosen: Division");  
             printf ("\n Enter First Number: ");  
             scanf (" %d", &n1);  
             printf (" Enter Second Number: ");  
@@ -71,7 +74,7 @@ int main()
               
         case 5:  
             // getting square of a number  
-            printf (" You chose: Square");  
+            printf (" You have choosen: Square");  
             printf ("\n Enter First Number: ");  
             scanf (" %d", &n1);  
   
@@ -81,7 +84,7 @@ int main()
               
         case 6:  
             // getting the square root of the number  
-            printf (" You chose: Square Root");  
+            printf (" You have choosen: Square Root");  
             printf ("\n Enter First Number: ");  
             scanf (" %d", &n1);  
               
@@ -91,7 +94,7 @@ int main()
             
         case 7:  
             // getting cube of a number  
-            printf (" You choose: cube");  
+            printf (" You have choosen: cube");  
             printf ("\n Enter Number: ");  
             scanf (" %d", &n1);  
   
@@ -100,7 +103,7 @@ int main()
             break; // break the function           
         
         case 8:  
-            printf (" You chose: Exit"); 
+            printf (" You have choosen: Exit"); 
             printf(" \nThankyou have a nice day ");
             exit(0); 
             break; // break the function  
