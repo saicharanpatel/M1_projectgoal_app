@@ -6,7 +6,7 @@ int main()
 {  
     // declaration of local variable op;  
     int op, n1, n2;  
-    float res;  
+    float result;  
     char ch;  
     do  
     {  
@@ -27,7 +27,7 @@ int main()
             scanf (" %d", &n1);  
             printf (" Enter Second Number: ");  
             scanf (" %d", &n2);  
-            res = n1 + n2; // Add two numbers  
+            result = n1 + n2; // Add two numbers  
             printf (" Addition of two numbers is: %.2f", res);  
             break; // break the function  
               
@@ -38,7 +38,7 @@ int main()
             scanf (" %d", &n1);  
             printf (" Enter Second Number: ");  
             scanf (" %d", &n2);  
-            res = n1 - n2; // subtract two numbers  
+            result = n1 - n2; // subtract two numbers  
             printf (" Subtraction of two numbers is: %.2f", res);  
             break; // break the function  
               
@@ -49,7 +49,7 @@ int main()
             scanf (" %d", &n1);  
             printf (" Enter Second Number: ");  
             scanf (" %d", &n2);  
-            res = n1 * n2; // multiply two numbers  
+            result = n1 * n2; // multiply two numbers  
             printf (" Multiplication of two numbers is: %.2f", res);  
             break; // break the function  
               
@@ -65,7 +65,7 @@ int main()
                     printf (" \n Divisor cannot be zero. Please enter another value ");  
                     scanf ("%d", &n2);        
                 }  
-            res = n1 / n2; // divide two numbers  
+            result = n1 / n2; // divide two numbers  
             printf (" Division of two numbers is: %.2f", res);  
             break; // break the function  
               
@@ -75,7 +75,7 @@ int main()
             printf ("\n Enter First Number: ");  
             scanf (" %d", &n1);  
   
-            res = n1 * n1; // get square of a number  
+            result = n1 * n1; // get square of a number  
             printf (" Square of %d number is: %.2f", n1, res);  
             break; // break the function  
               
@@ -85,7 +85,7 @@ int main()
             printf ("\n Enter First Number: ");  
             scanf (" %d", &n1);  
               
-            res = sqrt(n1); // use sqrt() function to find the Square Root   
+            result = sqrt(n1); // use sqrt() function to find the Square Root   
             printf (" Square Root of %d numbers is: %.2f", n1, res);  
             break; // break the function  
             
@@ -95,7 +95,7 @@ int main()
             printf ("\n Enter Number: ");  
             scanf (" %d", &n1);  
   
-            res = n1 * n1 * n1; // get square of a number  
+            result = n1 * n1 * n1; // get square of a number  
             printf (" cube of %d number is: %.3f", n1, res);  
             break; // break the function           
         
