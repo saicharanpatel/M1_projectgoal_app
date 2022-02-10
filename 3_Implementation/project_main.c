@@ -24,7 +24,7 @@ int main()
     switch (op)  
     {  
         case 1:  
-            // Add two numbers  
+            // Addition of two numbers  
             printf (" You have choosen: Addition");  
             printf ("\n Enter First Number: ");  
             scanf (" %d", &n1);  
@@ -35,7 +35,7 @@ int main()
             break; // break the function  
               
         case 2:  
-            // Subtract two numbers  
+            // Subtraction of two numbers  
             printf (" You have choosen: Subtraction");  
             printf ("\n Enter First Number: ");  
             scanf (" %d", &n1);  
@@ -73,7 +73,7 @@ int main()
             break; // break the function  
               
         case 5:  
-            // getting square of a number  
+            // square of a number  
             printf (" You have choosen: Square");  
             printf ("\n Enter First Number: ");  
             scanf (" %d", &n1);  
@@ -83,7 +83,7 @@ int main()
             break; // break the function  
               
         case 6:  
-            // getting the square root of the number  
+            // square root of a number  
             printf (" You have choosen: Square Root");  
             printf ("\n Enter First Number: ");  
             scanf (" %d", &n1);  
@@ -93,7 +93,7 @@ int main()
             break; // break the function  
             
         case 7:  
-            // getting cube of a number  
+            // cube of a number  
             printf (" You have choosen: cube");  
             printf ("\n Enter Number: ");  
             scanf (" %d", &n1);  
