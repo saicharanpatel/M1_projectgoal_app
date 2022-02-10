@@ -90,12 +90,12 @@ int main()
             break; // break the function  
             
         case 7:  
-            // getting square of a number  
+            // getting cube of a number  
             printf (" You choose: cube");  
             printf ("\n Enter Number: ");  
             scanf (" %d", &n1);  
   
-            result = n1 * n1 * n1; // get square of a number  
+            result = n1 * n1 * n1; // get cube of a number  
             printf (" cube of %d number is: %.3f", n1, res);  
             break; // break the function           
         
