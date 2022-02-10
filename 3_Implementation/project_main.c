@@ -28,7 +28,7 @@ int main()
             printf (" Enter Second Number: ");  
             scanf (" %d", &n2);  
             result = n1 + n2; // Add two numbers  
-            printf (" Addition of two numbers is: %.2f", res);  
+            printf (" Addition of two numbers is: %.2f", result);  
             break; // break the function  
               
         case 2:  
@@ -39,7 +39,7 @@ int main()
             printf (" Enter Second Number: ");  
             scanf (" %d", &n2);  
             result = n1 - n2; // subtract two numbers  
-            printf (" Subtraction of two numbers is: %.2f", res);  
+            printf (" Subtraction of two numbers is: %.2f", result);  
             break; // break the function  
               
         case 3:  
@@ -50,7 +50,7 @@ int main()
             printf (" Enter Second Number: ");  
             scanf (" %d", &n2);  
             result = n1 * n2; // multiply two numbers  
-            printf (" Multiplication of two numbers is: %.2f", res);  
+            printf (" Multiplication of two numbers is: %.2f", result);  
             break; // break the function  
               
         case 4:  
@@ -66,7 +66,7 @@ int main()
                     scanf ("%d", &n2);        
                 }  
             result = n1 / n2; // divide two numbers  
-            printf (" Division of two numbers is: %.2f", res);  
+            printf (" Division of two numbers is: %.2f", result);  
             break; // break the function  
               
         case 5:  
@@ -76,7 +76,7 @@ int main()
             scanf (" %d", &n1);  
   
             result = n1 * n1; // get square of a number  
-            printf (" Square of %d number is: %.2f", n1, res);  
+            printf (" Square of %d number is: %.2f", n1, result);  
             break; // break the function  
               
         case 6:  
@@ -86,7 +86,7 @@ int main()
             scanf (" %d", &n1);  
               
             result = sqrt(n1); // use sqrt() function to find the Square Root   
-            printf (" Square Root of %d numbers is: %.2f", n1, res);  
+            printf (" Square Root of %d numbers is: %.2f", n1, result);  
             break; // break the function  
             
         case 7:  
@@ -96,7 +96,7 @@ int main()
             scanf (" %d", &n1);  
   
             result = n1 * n1 * n1; // get cube of a number  
-            printf (" cube of %d number is: %.3f", n1, res);  
+            printf (" cube of %d number is: %.3f", n1, result);  
             break; // break the function           
         
         case 8:  
