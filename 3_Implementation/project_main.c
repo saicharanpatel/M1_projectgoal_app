@@ -12,7 +12,7 @@ int main()
     {  
         // displays the multiple operations of the C Calculator  
         printf (" Select an operation to perform the calculation in C Calculator: ");  
-        printf (" \n 1 Addition  \t \t 2 Subtraction \n 3 Multiplication \t 4 Division \n 5 Square \t \t 6 Square Root \n 7 Cube \t \t 8 Exit  \n 9 Cube Root \n \n Please, Make a choice ");      
+        printf (" \n 1 Addition  \t \t 2 Subtraction \n 3 Multiplication \t 4 Division \n 5 Square \t \t 6 Square Root \n 7 Cube \t \t 8 Exit \n \n Please, Make a choice ");      
           
         scanf ("%d", &op); // accepts a numeric input to choose the operation  
       
@@ -90,7 +90,7 @@ int main()
             break; // break the function  
             
         case 7:  
-            // getting cube of a number  
+            // getting square of a number  
             printf (" You choose: cube");  
             printf ("\n Enter Number: ");  
             scanf (" %d", &n1);  
@@ -98,22 +98,13 @@ int main()
             res = n1 * n1 * n1; // get square of a number  
             printf (" cube of %d number is: %.3f", n1, res);  
             break; // break the function           
-        case 8:  
-            printf (" You chose: Exit");  
-            exit(0);   
-            break; // break the function  
-
-        case 9:
-            // getting Cube Root of a number
-            printf(" You choose: Cube Root");
-            printf("\n Enter any number: "); 
-            scanf("%d",&n1);
-            
-            res = pow (n1, 1.0/3.0);
-            res++;
-            printf("\n Cube Root of %d is: %d", n1, res); 
-            break;
         
+        case 8:  
+            printf (" You chose: Exit"); 
+            printf(" \nThankyou have a nice day ");
+            exit(0); 
+            break; // break the function  
+            
         default:  
             printf(" Something is wrong!! ");  
             break;                        
