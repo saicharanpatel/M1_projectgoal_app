@@ -102,7 +102,7 @@ int main()
             printf (" cube of %d number is: %.3f", n1, result);  
             break; // break the function           
         
-        case 8:  
+        case 8: 
             printf (" You have choosen: Exit"); 
             printf(" \nThankyou have a nice day ");
             exit(0); 
@@ -113,7 +113,7 @@ int main()
             break;                        
     }  
     printf (" \n \n -------------------------------------- \n ");  
-    } while (op != 7);  
+    } while (op != 999);  
   
     return 0;        
 }  
