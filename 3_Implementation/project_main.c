@@ -97,7 +97,6 @@ int main()
             printf (" You have choosen: cube");  
             printf ("\n Enter Number: ");  
             scanf (" %d", &n1);  
-  
             result = n1 * n1 * n1; // get cube of a number  
             printf (" cube of %d number is: %.3f", n1, result);  
             break; // break the function           
