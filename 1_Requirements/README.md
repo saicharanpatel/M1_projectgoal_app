@@ -4,8 +4,8 @@ so we are planning to design a calculator with some basic operations
 Description
 # Simple Basic Calculator
 ## Introduction: -
-•	Simple Calculator helps users to calculate simple calculations with great speed and accessibility. Simple calculator is a project to allow users to calculate basic four operations in mathematics, they are addition, subtraction, multiplication, division. But in this Project also included three additional operations such as square, square root, cube of given number. However, the input has to be in the form "number1 operator1 number2 "(i.e., 2+4).
-•	The input includes the command such as we can give numbers based on the operation for example for addition, we give 1 as a command and that particular operation works. Moreover, this calculator is smart enough to operate multiplication/division/subtraction
+###### •	Simple Calculator helps users to calculate simple calculations with great speed and accessibility. Simple calculator is a project to allow users to calculate basic four operations in mathematics, they are addition, subtraction, multiplication, division. But in this Project also included three additional operations such as square, square root, cube of given number. However, the input has to be in the form "number1 operator1 number2 "(i.e., 2+4).
+###### •	The input includes the command such as we can give numbers based on the operation for example for addition, we give 1 as a command and that particular operation works. Moreover, this calculator is smart enough to operate multiplication/division/subtraction
 
 # REQUIREMENTS
 ## HIGH LEVEL REQUIREMENTS
