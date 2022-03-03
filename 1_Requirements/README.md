@@ -1,7 +1,7 @@
 # REQUIREMENTS
 so we are planning to design a calculator with some basic operations
-## Tools: we are goind to use vs code for compiling and also for pushing it into GitHub
-Description
+###### Tools: we are goind to use vs code for compiling and also for pushing it into GitHub
+
 # Simple Basic Calculator
 ## Introduction: -
 ###### •	Simple Calculator helps users to calculate simple calculations with great speed and accessibility. Simple calculator is a project to allow users to calculate basic four operations in mathematics, they are addition, subtraction, multiplication, division. But in this Project also included three additional operations such as square, square root, cube of given number. However, the input has to be in the form "number1 operator1 number2 "(i.e., 2+4).
