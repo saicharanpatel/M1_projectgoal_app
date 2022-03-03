@@ -28,14 +28,5 @@ int square();
 int sqrt();
 int cube(); 
 void exit();  
-  
-
-int addition()  
-int subtract() 
-int multiply() 
-int divide() 
-int square()
-int sqrt()
-int cube()
 
 #endif
