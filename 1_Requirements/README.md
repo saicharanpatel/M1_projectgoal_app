@@ -42,8 +42,8 @@ The slower growth in technological innovation will also bring a significant thre
 •	Researchers can use it for getting a quick calculation output.
 •	Comes to a great use when calculating for matrices of huge order.
 
-## Where:
+## Where
 •	Students, employees and researchers all over the world.
 
-## How:
+## How
 •	This program can be executed in a system which has Linux or Windows operating system.

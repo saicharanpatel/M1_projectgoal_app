@@ -6,9 +6,8 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # PARTICULAR PURPOSE.
 
 # This program built for i386-pc-mingw32
- 
 
-# Make data base, printed on Thu Mar 03 20:59:28 2022
+# Make data base, printed on Thu Mar 03 22:04:25 2022
 
 # Variables
 
@@ -55,7 +54,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-9705e16c-7f21-435f-8c27-13a74a8d8853-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-470744df-0993-4669-9a60-2d87722132b2-sock
 # environment
 VSCODE_CWD = C:\Users\sai charan\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -83,7 +82,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_32624_HREDLNKYLKKEIXMQ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_23480_ZKUARMOCNWKGAHJL
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -186,10 +185,7 @@ MAKEFILES :=
 LC_ALL = C
 # automatic
 ^F = $(notdir $^)
-# default 
-make.exe: *** No rule to make target `all'.  Stop.
- 
-
+# default
 SUFFIXES := 
 # environment
 SYSTEMDRIVE = C:
@@ -204,7 +200,7 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 32624
+VSCODE_PID = 23480
 # environment
 USERDOMAIN_ROAMINGPROFILE = LAPTOP-7TMK8442
 # variable set hash-table stats:
@@ -282,6 +278,8 @@ GNUmakefile:
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Thu Mar 03 20:59:28 2022
+# Finished Make data base on Thu Mar 03 22:04:25 2022
 
+ 
+make.exe: *** No rule to make target `all'.  Stop.
  
