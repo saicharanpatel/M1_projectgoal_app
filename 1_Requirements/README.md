@@ -1,7 +1,6 @@
-//REQUIREMENTS//
+# REQUIREMENTS
 so we are planning to design a calculator with some basic operations
-
-Tools: we are goind to use vs code for compiling and also for pushing it into GitHub
+## Tools: we are goind to use vs code for compiling and also for pushing it into GitHub
 Description
 # Simple Basic Calculator
 ## Introduction: -
@@ -10,18 +9,18 @@ Description
 
 # REQUIREMENTS
 ## HIGH LEVEL REQUIREMENTS
-|S.NO|High Level Requirements |
-|:----| ----------------------:|
-|1|User should be able to view operation list|
-|2|User should be able to select the operation from the given list|
-|3|The system should able to perform the given operation|
-|4|The system should provide correct result|
+|S.NO|DESCRIPTION |Category|Status|
+|:----| ----------------------:|--------:|---------:|
+|HR01|User should be able to view operation list|Technical|Implemented|
+|HR02|User should be able to select the operation from the given list|Technical|Implemented|
+|HR03|The system should able to perform the given operation|Technical|Implemented|
+|HR04|The system should provide correct result|Technical|Implemented|
 ## LOW LEVEL REQUIREMENTS
-|S.NO|Low Level Requirements |
-|:----| ----------------------:|
-|1|If the calculations are impossible the calculator has to display information helping the user to resolve the erroneous situation|
-|2|On encountering a division by 0 the display should read "Cannot divide by 0" and typing the key “C” should reset the calculator|
-|3|On calculating the square root value of a negative operand, the display should read "Wrong operand"|
+|S.NO|DESCRIPTION |Category|Status|
+|:----| ----------------------:|--------:|---------:|
+|LR01|If the calculations are impossible the calculator has to display information helping the user to resolve the erroneous situation|Technical|Implemented|
+|LR02|On encountering a division by 0 the display should read "Cannot divide by 0" and typing the key “C” should reset the calculator|Technical|Implemented|
+|LR03|On calculating the square root value of a negative operand, the display should read "Wrong operand"|Technical|Implemented|
 ## SWOT ANALYSIS
 ###### STRENGTHS
 The ultimate strength of Calculators is its innovative, user-friendly and long lasting etc.
@@ -34,21 +33,21 @@ The slower growth in technological innovation will also bring a significant thre
 
 ## 5W's and 1H's
 
-###### Who
+## Who
 •	Students who want to solve mathematics related problems for their academic work.
 •	Data science workers working on machine learning and deep learning applications which majorly involve matrices Software engineer.
 •	For people who has started to learn basic calculations and can easily  use it without any fear because it is specially made for beginner friendly
 
-###### What
+## What
 •	Calculate the sum, difference, product of two matrices and also the determinant, transpose and inverse of a single matrix.
 
-###### When
+## When
 •	Students facing a difficulty in solving a matrix related problem, can use this program to conform their outputs.
 •	Researchers can use it for getting a quick calculation output.
 •	Comes to a great use when calculating for matrices of huge order.
 
-###### Where:
+## Where:
 •	Students, employees and researchers all over the world.
 
-###### How:
+## How:
 •	This program can be executed in a system which has Linux or Windows operating system.
