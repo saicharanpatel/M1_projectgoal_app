@@ -22,13 +22,13 @@ Description
 |LR02|On encountering a division by 0 the display should read "Cannot divide by 0" and typing the key “C” should reset the calculator|Technical|Implemented|
 |LR03|On calculating the square root value of a negative operand, the display should read "Wrong operand"|Technical|Implemented|
 ## SWOT ANALYSIS
-###### STRENGTHS
+###### -STRENGTHS
 The ultimate strength of Calculators is its innovative, user-friendly and long lasting etc.
-###### WEAKNESSES
+###### -WEAKNESSES
 Do not include all the operations rather have only addition, subtraction multiplication, division, square, square root and cube.
-###### OPPORTUNITIES
+###### -OPPORTUNITIES
 There is a huge opportunity in capturing the youth market. And this calculator comparatively already one step ahead than other
-###### THREATS
+###### -THREATS
 The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
 ## 5W's and 1H's
